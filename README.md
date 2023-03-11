@@ -10,3 +10,14 @@ Estimating 3D human texture from a single image is essential in graphics and vis
 Additionally, we describe a novel cycle consistency loss that improves view generalization. We further propose to train our framework with an uncertainty-based pixel-level image reconstruction loss, which enhances color fidelity.
 
 We compare our method against the state-of-the-art approaches and show significant qualitative and quantitative improvements.
+
+## Citation
+
+```
+@article{altindis2023refining,
+  title={Refining 3D Human Texture Estimation from a Single Image},
+  author={Altindis, Said Fahri and Meric, Adil and Dalva, Yusuf and Gudukbay, Ugur and Dundar, Aysegul},
+  journal={arXiv preprint arXiv:2303.03471},
+  year={2023}
+}
+```
