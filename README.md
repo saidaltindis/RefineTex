@@ -15,7 +15,7 @@ We compare our method against the state-of-the-art approaches and show significa
 
 <img src="./method.png">
 
-The overall framework. We introduce a deformable convolution-based refinement module where offsets are learned via an attention-based deep network Xu et. al. 2021. TThis framework can handle the challenges of mapping unaligned spatially diverse input images into fixed parametric uv coordinates.
+The overall framework. We introduce a deformable convolution-based refinement module where offsets are learned via an attention-based deep network Xu et. al. 2021. This framework can handle the challenges of mapping unaligned spatially diverse input images into fixed parametric uv coordinates.
 
 ## Results
 <table>
