@@ -11,6 +11,38 @@ Additionally, we describe a novel cycle consistency loss that improves view gene
 
 We compare our method against the state-of-the-art approaches and show significant qualitative and quantitative improvements.
 
+## Results
+<table>
+    <tr>
+        <td><img src="./sample_results/input/0176_c2s1_032301_02.png"\></td>
+        <td><img src="./sample_results/hpbtt/0176_c2s1_032301_02.gif"\></td>
+        <td><img src="./sample_results/rstg/0176_c2s1_032301_02.gif" \></td>
+        <td><img src="./sample_results/texformer/0176_c2s1_032301_02.gif"\></td>
+        <td><img src="./sample_results/ours/0176_c2s1_032301_02.gif"\></td>
+    </tr>
+    <tr>
+        <td><img src="./sample_results/input/0135_c3s1_022426_01.png"\></td>
+        <td><img src="./sample_results/hpbtt/0135_c3s1_022426_01.gif"\></td>
+        <td><img src="./sample_results/rstg/0135_c3s1_022426_01.gif"\></td>
+        <td><img src="./sample_results/texformer/0135_c3s1_022426_01.gif"\></td>
+        <td><img src="./sample_results/ours/0135_c3s1_022426_01.gif"\></td>
+    </tr>
+    <tr>
+        <td><img src="./sample_results/input/0121_c6s2_079518_05.png"\></td>
+        <td><img src="./sample_results/hpbtt/0121_c6s2_079518_05.gif"\></td>
+        <td><img src="./sample_results/rstg/0121_c6s2_079518_05.gif"\></td>
+        <td><img src="./sample_results/texformer/0121_c6s2_079518_05.gif"\></td>
+        <td><img src="./sample_results/ours/0121_c6s2_079518_05.gif"\></td>
+    </tr>
+    <tr>
+        <td><h4>Input</h4></td>
+        <td><h4>HPBTT</h4></td>
+        <td><h4>RTSG</h4></td>
+        <td><h4>Texformer</h4></td>
+        <td><h4>Ours</h4></td>
+    </tr>
+</table>
+
 ## Citation
 
 ```
