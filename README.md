@@ -11,6 +11,12 @@ Additionally, we describe a novel cycle consistency loss that improves view gene
 
 We compare our method against the state-of-the-art approaches and show significant qualitative and quantitative improvements.
 
+## Method
+
+<img src="./method.png">
+
+The overall framework. We introduce a deformable convolution-based refinement module where offsets are learned via an attention-based deep network Xu et. al. 2021. TThis framework can handle the challenges of mapping unaligned spatially diverse input images into fixed parametric uv coordinates.
+
 ## Results
 <table>
     <tr>
